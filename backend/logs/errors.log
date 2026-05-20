@@ -1,0 +1,46 @@
+2026-04-12 03:38:03 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login attempt for ceo@test.com
+2026-04-12 03:38:23 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login attempt for ceo@test.com
+2026-04-12 14:23:55 | ERROR    | app.core.logger:69 - ERROR | context=auth/forgot-password | error=Email not configured. Set SMTP_USER and SMTP_PASS in .env
+2026-04-12 15:46:37 | ERROR    | app.core.logger:69 - ERROR | context=auth/forgot-password | error=Email not configured. Set SMTP_USER and SMTP_PASS in .env
+2026-04-17 22:32:54 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login attempt for CEO@test.com
+2026-04-17 22:33:01 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login attempt for CEO@test.com
+2026-04-19 16:01:49 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login: umairhafiz0@gmail.com
+2026-04-19 16:19:37 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login: umairhafiz0@gmail.com
+2026-04-19 16:19:54 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login: umairhafiz0@gmail.com
+2026-04-19 16:28:13 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login: umairhafiz0@gmail.com
+2026-04-19 19:53:12 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login: umairhafiz0@gmail.com
+2026-04-19 19:53:29 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login: umairhafiz0@gmail.com
+2026-04-20 06:04:53 | ERROR    | app.core.logger:69 - ERROR | context=manager/stream/message | error='inventory_action'
+2026-04-20 06:05:09 | ERROR    | app.core.logger:69 - ERROR | context=manager/stream/message | error='inventory_action'
+2026-04-20 06:05:27 | ERROR    | app.core.logger:69 - ERROR | context=manager/stream/message | error='inventory_action'
+2026-04-20 06:27:39 | ERROR    | app.core.logger:69 - ERROR | context=manager/stream/message | error='inventory_action'
+2026-04-20 06:28:02 | ERROR    | app.core.logger:69 - ERROR | context=manager/stream/message | error='inventory_action'
+2026-05-13 19:03:23 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login: umairhafiz0@gmail.com
+2026-05-15 16:00:17 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login: test@autobiz.com
+2026-05-18 23:57:44 | ERROR    | app.core.logger:69 - ERROR | context=manager/stream/message | error=KIMI_API_KEY is not set. Please add it to your .env file.
+2026-05-20 04:23:39 | ERROR    | app.main:82 - Startup DB connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+Server is running but database is unavailable. Check DATABASE_URL in environment variables.
+2026-05-20 04:28:30 | ERROR    | app.main:82 - Startup DB connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+Server is running but database is unavailable. Check DATABASE_URL in environment variables.
+2026-05-20 04:33:16 | ERROR    | app.main:82 - Startup DB connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+Server is running but database is unavailable. Check DATABASE_URL in environment variables.
+2026-05-20 04:36:35 | ERROR    | app.main:82 - Startup DB connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+Server is running but database is unavailable. Check DATABASE_URL in environment variables.
+2026-05-20 04:39:19 | ERROR    | app.main:82 - Startup DB connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+Server is running but database is unavailable. Check DATABASE_URL in environment variables.
+2026-05-20 04:45:01 | ERROR    | app.main:82 - Startup DB connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+Server is running but database is unavailable. Check DATABASE_URL in environment variables.
+2026-05-20 04:54:14 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login: CEO1@test.com
+2026-05-20 08:19:06 | ERROR    | app.core.logger:69 - ERROR | context=auth/login | error=Failed login: CEO1@test.com
